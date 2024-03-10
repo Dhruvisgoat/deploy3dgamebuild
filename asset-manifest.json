@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d972a963.css",
+    "main.js": "/static/js/main.f18bc98b.js",
+    "static/media/dancing_dhruv.mp4": "/static/media/dancing_dhruv.6341c1464ed6b7336564.mp4",
+    "static/media/dirt.jpg": "/static/media/dirt.59ed32793c180834b389.jpg",
+    "static/media/grass.jpg": "/static/media/grass.eb5fc8ebf9c7a590fb39.jpg",
+    "index.html": "/index.html",
+    "main.d972a963.css.map": "/static/css/main.d972a963.css.map",
+    "main.f18bc98b.js.map": "/static/js/main.f18bc98b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d972a963.css",
+    "static/js/main.f18bc98b.js"
+  ]
+}
